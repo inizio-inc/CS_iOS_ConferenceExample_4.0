@@ -267,12 +267,12 @@
 #else
         _source = [_factory videoSource];
         _capturer = [[RTCCameraVideoCapturer alloc] initWithDelegate:_source];
+        [self startCapture];
         
         dispatch_async(dispatch_get_main_queue(), ^{
             [((StreamView *)self.view).localVideoView setCaptureSession:[_capturer captureSession] ];
         });
-        
-        [self startCapture];
+      
 #endif
         ICSPublishOptions* options=[[ICSPublishOptions alloc] init];
         ICSAudioCodecParameters* opusParameters=[[ICSAudioCodecParameters alloc] init];
