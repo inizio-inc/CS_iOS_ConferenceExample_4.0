@@ -1,0 +1,37 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "FDF7FF17B1BB7DE379B87E27B5F6E035FA822C81",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "FDF7FF17B1BB7DE379B87E27B5F6E035FA822C81" : 9223372036854775807,
+    "E609DD15689CC93D8F4D219EB393F30F9F726178" : 9223372036854775807,
+    "8FFACF9194D48576A22F6F0C4F6B4F0BA1ABFC64" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "7F941262-9CA6-4EA5-A9E0-97BF4BA9FD10",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "FDF7FF17B1BB7DE379B87E27B5F6E035FA822C81" : "ios\/",
+    "E609DD15689CC93D8F4D219EB393F30F9F726178" : "GPUImage\/",
+    "8FFACF9194D48576A22F6F0C4F6B4F0BA1ABFC64" : "webrtc\/src\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "WoogeenConference",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "src\/samples\/conference\/WoogeenConference.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "ssh:\/\/git-ccr-1.devtools.intel.com:29418\/webrtc-webrtcstack",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8FFACF9194D48576A22F6F0C4F6B4F0BA1ABFC64"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/BradLarson\/GPUImage.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E609DD15689CC93D8F4D219EB393F30F9F726178"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "ssh:\/\/git-amr-3.devtools.intel.com:29418\/webrtc-ios-sdk",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FDF7FF17B1BB7DE379B87E27B5F6E035FA822C81"
+    }
+  ]
+}

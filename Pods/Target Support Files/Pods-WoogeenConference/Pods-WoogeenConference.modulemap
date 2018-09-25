@@ -1,0 +1,6 @@
+framework module Pods_WoogeenConference {
+  umbrella header "Pods-WoogeenConference-umbrella.h"
+
+  export *
+  module * { export * }
+}
